@@ -10,6 +10,6 @@
 #kubesphere/ks-installer:v3.4.1
 #redis:7.0.10
 #portainer/portainer
-jdk-17.0.7
+centos:7
 
 
