@@ -13,10 +13,20 @@
 #centos:7
 #mysql:8.0.3
 #mysql:8.0.29
-wurstmeister/zookeeper
-wurstmeister/kafka
-nacos/nacos-server:v2.1.1
-bladex/sentinel-dashboard
+#wurstmeister/zookeeper
+#wurstmeister/kafka
+#nacos/nacos-server:v2.1.1
+#bladex/sentinel-dashboard
+elasticsearch:8.5.0
+logstash:8.5.0
+kibana:8.5.0
+openzipkin/zipkin
+minio/minio
+mongo:4.2.5
+canal/canal-server:v1.1.4
+mongo
+
+
 
 
 
