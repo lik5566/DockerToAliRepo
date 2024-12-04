@@ -10,6 +10,10 @@
 #kubesphere/ks-installer:v3.4.1
 #redis:7.0.10
 #portainer/portainer
-centos:7
+#centos:7
+mysql:8.0.3
+mysql:8.0.29
+nacos:2.1.1
+nacos/nacos-server:v2.2.2
 
 
