@@ -17,14 +17,18 @@
 #wurstmeister/kafka
 #nacos/nacos-server:v2.1.1
 #bladex/sentinel-dashboard
-elasticsearch:8.5.0
-logstash:8.5.0
-kibana:8.5.0
-openzipkin/zipkin
-minio/minio
-mongo:4.2.5
-canal/canal-server:v1.1.4
-mongo
+#elasticsearch:8.5.0
+#logstash:8.5.0
+#kibana:8.5.0
+#openzipkin/zipkin
+#minio/minio
+#mongo:4.2.5
+#canal/canal-server:v1.1.4
+#mongo
+mongo:7.0.0
+delron/fastdfs
+elasticsearch:7.6.2
+percona/percona-xtradb-cluster:5.7
 
 
 
