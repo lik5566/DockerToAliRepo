@@ -25,10 +25,11 @@
 #mongo:4.2.5
 #canal/canal-server:v1.1.4
 #mongo
-mongo:7.0.0
-delron/fastdfs
-elasticsearch:7.6.2
-percona/percona-xtradb-cluster:5.7
+#mongo:7.0.0
+#delron/fastdfs
+#elasticsearch:7.6.2
+#percona/percona-xtradb-cluster:5.7
+hello-word
 
 
 
