@@ -29,7 +29,7 @@
 #delron/fastdfs
 #elasticsearch:7.6.2
 #percona/percona-xtradb-cluster:5.7
-hello-word
+wxedge
 
 
 
